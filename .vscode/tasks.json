@@ -5,7 +5,7 @@
             "type": "shell",
             "label": "sdl",
             
-            "command": "E:\\app\\C-free\\mingw\\bin\\gcc.exe",
+            "command": "G:\\mingw\\bin\\gcc.exe",
             "args": [
                 "${workspaceFolder}\\main.c",
                 "${workspaceFolder}\\capp.c",
@@ -33,7 +33,7 @@
             ],
             "options": {
                 
-                "cwd": "E:\\app\\C-free\\mingw\\bin\\"
+                "cwd": "G:\\mingw\\bin\\"
             },
             "problemMatcher": [
                 "$gcc"
@@ -47,7 +47,7 @@
             "type": "shell",
             "label": "test",
             
-            "command": "E:\\app\\C-free\\mingw\\bin\\gcc.exe",
+            "command": "G:\\mingw\\bin\\gcc.exe",
             "args": [
                 "${workspaceFolder}\\test.c",
                 "-o",
@@ -61,7 +61,7 @@
             ],
             "options": {
                 
-                "cwd": "E:\\app\\C-free\\mingw\\bin\\"
+                "cwd": "G:\\mingw\\bin\\"
             },
             "problemMatcher": [
                 "$gcc"
