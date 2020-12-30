@@ -144,10 +144,4 @@ void dpointex(int x,int y,int r,int g,int b);
 void getscrsize(int *w,int *h);
 void setscrsize(int w,int h);
 
-
-int textwh(char *pcText, int is_unicode, int font, int* w, int* h);
-int dtext(char *pcText, int x,int y, int r,int g, int b, int is_unicode, int font);
-int dtextex(char *pcText, int x,int y, rectst *rect, colorst *color, int is_unicode, int font);
-
-
 #endif

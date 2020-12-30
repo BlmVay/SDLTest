@@ -5,14 +5,14 @@
             "includePath": [
                 "${workspaceFolder}\\**",
                 
-                "G:\\mingw\\include\\**"
+                "E:\\app\\C-free\\mingw\\include\\**"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "G:\\mingw\\bin\\gcc.exe",
+            "compilerPath": "E:\\app\\C-free\\mingw\\bin\\gcc.exe",
             "cStandard": "c11",
             "cppStandard": "c++17",
             "intelliSenseMode": "gcc-x64"
